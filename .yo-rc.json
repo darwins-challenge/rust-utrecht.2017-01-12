@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Fly me to the moon",
+    "packageVersion": "1.0.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "darwins-challenge",
+    "githubRepository": "rust-utrecht.2017-01-12"
+  }
+}
