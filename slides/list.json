@@ -4,5 +4,11 @@
     "genetic-programming.md",
     "principle.md",
     "genetic_overview.html",
-    "plan.md"
+    "plan.md",
+    {
+        "attr": {
+            "data-background-image": "resources/cockroach.jpg",
+            "data-background-position": "bottom"
+        }
+    }
 ]
