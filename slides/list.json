@@ -12,5 +12,7 @@
         }
     },
     "grammar.md",
-    "ebnf.md"
+    "ebnf.md",
+    "dsl.md",
+    "macros.md"
 ]
