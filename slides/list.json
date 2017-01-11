@@ -10,5 +10,7 @@
             "data-background-image": "resources/cockroach.jpg",
             "data-background-position": "bottom"
         }
-    }
+    },
+    "grammar.md",
+    "ebnf.md"
 ]
