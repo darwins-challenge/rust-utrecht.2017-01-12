@@ -14,5 +14,6 @@
     "grammar.md",
     "ebnf.md",
     "dsl.md",
-    "macros.md"
+    "macros.md",
+    "generation.md"
 ]
