@@ -1,0 +1,20 @@
+[
+    "index.md",
+    "game.md",
+    "genetic-programming.md",
+    "principle.md",
+    "genetic_overview.html",
+    "plan.md",
+    {
+        "attr": {
+            "data-background-image": "resources/cockroach.jpg",
+            "data-background-position": "bottom"
+        }
+    },
+    "grammar.md",
+    "ebnf.md",
+    "dsl.md",
+    "macros.md",
+    "generation.md",
+    "happy-rusting.md"
+]
